@@ -36,7 +36,7 @@ int main()
         
         case '/':
 
-            cout << num1 * num2 << "\n";
+            cout << num1 / num2 << "\n";
             break;
         
         default:
